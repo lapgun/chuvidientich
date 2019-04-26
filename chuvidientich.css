@@ -1,0 +1,9 @@
+table tr td{
+    border: 1px solid black;
+}
+table tr td input{
+    color:crimson ;
+}
+/*table{*/
+/*    width: 200px;*/
+/*}*/
